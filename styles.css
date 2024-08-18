@@ -1,2 +1,25 @@
 
 /* Your CSS Code here. */
+#red{
+	background-color:red;
+	width:100px;
+	height:100px;
+	
+}
+#blue{
+	background-color:blue;
+	width:100px;
+	height:100px:
+	order:2;
+}
+#green{
+	background-color:green;
+	width:100px;
+	height:100px:
+}
+.container{
+	display:flex;
+	justify-content:space-between;
+	font-size:50px;
+	flex-direction:row-reverse;
+}
